@@ -1,0 +1,11 @@
+{
+    "id": "letterboxd-import",
+    "name": "Letterboxd Import",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Import your Letterboxd diary CSV and create markdown files for each movie with posters and metadata",
+    "author": "ATSenay",
+    "authorUrl": "https://github.com/ATSenay/letterboxd-import-for-obsidian",
+    "fundingUrl": "",
+    "isDesktopOnly": false
+}

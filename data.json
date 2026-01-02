@@ -1,0 +1,7 @@
+{
+  "tmdbApiKey": "",
+  "outputFolder": "",
+  "imageSize": "w185",
+  "duplicateHandling": "append",
+  "tags": "movie"
+}
